@@ -1,5 +1,5 @@
 Sie antworten "Ich bin ... jetzt kennst Du mich ja. Magst Du ein Bier oder etwas anderes?".
-Sie lacht.
+Sie lacht. "Bier trinke nur vor 6pm"
 Sie schlägt vor:
 
 
